@@ -1,3 +1,1 @@
-- 👋 Oi, me chamo Dants
-- 👀 Fascinado por programação
-- 🌱 Atualmente procuro aprimorar cada vez mais minhas habilidades
+Olá, meu nome é Guilherme e sou programador. ⬆️
