@@ -1,4 +1,3 @@
-Olá, meu nome é Guilherme e sou programador. ⬆️
 ### Hi there 👋,  I´m Guilherme !
 
 
