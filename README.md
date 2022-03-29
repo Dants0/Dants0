@@ -6,7 +6,6 @@
      <img src="https://img.shields.io/github/followers/Dants0?color=000000&labelColor=000000&style=flat-square&logo=github&label=Follow">
  </div>
  
----
 
  ### <img src="https://img.icons8.com/small/32/000000/guest-male.png"/>Sobre
  Estudo Desenvolvimento Web voltado para **Front-End** e  **Back-End**.
