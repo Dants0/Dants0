@@ -13,6 +13,7 @@
   
   ### <img src="https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png"/>Tech's
   - 🔭 My portfolio : https://dants0.github.io/portfolio-react/; if you saw on a one smartphone, view the page on Desktop mode.
+  - 📊 My linkedin : https://www.linkedin.com/in/guilherme-góes-8b72531b0/
   - 🏆 My badges: https://dants0.github.io/My-Badges-Google/  
   - 🌱 I’m currently learning: JavaScript , React.js , Css3 , HTML5, MongoDB, SQL
   - 👯 I’m looking to collaborate on Front-end and Back-end projects
