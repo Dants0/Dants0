@@ -8,7 +8,7 @@
  
 
  ### <img src="https://img.icons8.com/small/32/000000/guest-male.png"/>Sobre
- Estudo Desenvolvimento Web voltado para **FullStack Dev**.
+ Estudante de Desenvolvimento Web **FullStack Dev**.
    
   
   ### <img src="https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png"/>Tech's
