@@ -22,7 +22,7 @@
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
 
-## ◽ Highlight Projects
+## ◽ Projetos
 
 <div align="center">
 <a href="https://github.com/Dants0/nlw-return">
@@ -45,7 +45,6 @@
     <img widh=100px  alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
 </a>
 <a href="https://instagram.com/dantas_44"> <img  alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/pedrov2418-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 ---
