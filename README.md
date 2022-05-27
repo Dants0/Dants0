@@ -11,7 +11,7 @@
 - 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, <br /> Graphql, Mongodb, MYSql, Javascript, Typescript, HTML5, Scss, Css3, etc.
 - 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
-- 💬 &nbsp; Pergunte me o que quiser [aqui](https://github.com/Dants0/Dants0/issues)! Ficarei feliz em responder.
+- 💬 &nbsp; Envie-me um Feedback [aqui](https://nlw-return-rose.vercel.app)!
 - 👾 &nbsp; React > Vue.
 
 ## ◽ Meus Hobbies Favoritos
