@@ -6,6 +6,22 @@
     <img src="https://komarev.com/ghpvc/?username=Dants0&color=000000&style=flat-square&logo=github&labelColor=000000">
      <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Follow">
  </div>
+ 
+## ◽ Sobre mim
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+
+## ◽ Meus Hobbies Favoritos
+
+- ⚽ &nbsp; Jogar Futebol ou Futevôlei.
+- 🎮 &nbsp; Jogar FPS.
+- 🍕 &nbsp; Assistir Harry Potter Ou Senhor dos Anéis
+
 
 ## ◽ Tecnologias
 
