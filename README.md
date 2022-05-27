@@ -45,6 +45,7 @@
     <img widh=100px  alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
 </a>
 <a href="https://instagram.com/dantas_44"> <img  alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/</a>
+    <p> DG#5569 on Discord </p>
 </div>
 
 ---
