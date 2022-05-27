@@ -8,11 +8,11 @@
  </div>
  
 ## ◽ Sobre mim
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, <br /> Graphql, Mongodb, MYSql, Javascript, Typescript, HTML5, Scss, Css3, etc.
+- 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack .
+- 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
+- 💬 &nbsp; Pergunte me o que quiser [aqui](https://github.com/Dants0/Dants0/issues)! Ficarei feliz em responder.
+- 👾 &nbsp; React > Vue.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
@@ -45,7 +45,7 @@
     Nlw Return Project
 </a>
 &&
-<a href="https://github.com/Dants0/portfolio-react">
+<a href="https://dants0.github.io/portfolio-react/">
     Portifólio
 </a>
 </div>
