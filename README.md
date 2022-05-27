@@ -12,7 +12,7 @@
 - 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
 - 💬 &nbsp; Envie-me um Feedback [aqui](https://nlw-return-rose.vercel.app)!
-- 👾 &nbsp; React > Vue.
+- 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://dants0.github.io/portfolio-react/)!
 
 ## ◽ Meus Hobbies Favoritos
 
@@ -40,11 +40,11 @@
 ## ◽ Projetos
 
 <div align="center">
-<a href="https://nlw-return-rose.vercel.app">
+<a href="https://github.com/Dants0/nlw-return">
     Nlw Return Project
 </a>
 &&
-<a href="https://dants0.github.io/portfolio-react/">
+<a href="https://github.com/Dants0/portfolio-react">
     Portifólio
 </a>
 </div>
