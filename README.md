@@ -1,3 +1,53 @@
+<h1 align=center> Olá!
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+</h1>
+
+<div align=center>
+    <img src="https://komarev.com/ghpvc/?username=Dants0&color=000000&style=flat-square&logo=github&labelColor=000000">
+     <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Follow">
+ </div>
+
+## ◽ Tecnologias
+
+<div align="center">
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</div>
+
+## ◽ Highlight Projects
+
+<div align="center">
+<a href="https://github.com/Dants0/nlw-return">
+    Nlw Return Project
+</a>
+&&
+<a href="https://github.com/Dants0/portfolio-react">
+    Portifólio
+</a>
+</div>
+
+
+## ◽ Contate-me
+
+<div width="100" align=center>
+    <a href="https://www.linkedin.com/in/guilherme-góes-8b72531b0/">
+    <img  alt="Linkedin" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
+</a>
+<a href="mailto:guilhermedantasgoes@gmail">
+    <img widh=100px  alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
+</a>
+<a href="https://instagram.com/dantas_44"> <img  alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"/</a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pedrov2418-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
+
 ---
 
 <div align=center>
