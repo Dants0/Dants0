@@ -1,40 +1,38 @@
-<h1 align=center> Olá!
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-</h1>
-<div align=center>
-    <img src="https://komarev.com/ghpvc/?username=Dants00&color=000000&style=flat-square&logo=github&labelColor=000000">
-     <img src="https://img.shields.io/github/followers/Dants0?color=000000&labelColor=000000&style=flat-square&logo=github&label=Follow">
- </div>
- 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
- ### <img src="https://img.icons8.com/small/32/000000/guest-male.png"/>Sobre
- Estudante de Desenvolvimento Web **FullStack Dev**.
-   
-  
-  ### <img src="https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png"/>Tech's
-  - 🌱 Atualmente estou aprendendo: JavaScript, React, SQL, Cloud
-  - 👯 Estou procurando colaborar em projetos Front-end e Back-end
-  - 🤔 Estou procurando ajuda com SaSS, Typescript, Prisma, NextJs, NestJs  
-  
----
+<br />
 
-<div align=center>
-    <a href="https://github.com/Dants0" margin-right:'25'>
-     <img height='200em' src="https://github-readme-stats.vercel.app/api?username=Dants0&show_icons=true&count_private=true&theme=vision-friendly-light" alt="GitHub stats"/>
-     </a>  
-</div>
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
----
+**About me**
 
-<div align="center">
-  <a href="https://github.com/Dants0">
-    <img  height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dants0&hide=TeX&layout=compact&theme=vision-friendly-light" width=415px>
-  </a>
-</div>
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
----
-<div align=center>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Dants0&theme=vision-friendly-light" alt="Github Streak Status"/>
-</div>
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
-</div>
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/Dants0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dants0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dants0 github stats" /></a> | <a href="https://github.com/Dants0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dants0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/Dants0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dants0&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/Dants0/Dants0.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dants0&repo=Dants0.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
