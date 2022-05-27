@@ -9,18 +9,17 @@
  
 ## ◽ Sobre mim
 - 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, <br /> Graphql, Mongodb, MYSql, Javascript, Typescript, HTML5, Scss, Css3, etc.
-- 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack .
+- 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
 - 💬 &nbsp; Pergunte me o que quiser [aqui](https://github.com/Dants0/Dants0/issues)! Ficarei feliz em responder.
 - 👾 &nbsp; React > Vue.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ## ◽ Meus Hobbies Favoritos
 
 - ⚽ &nbsp; Jogar Futebol ou Futevôlei.
 - 🎮 &nbsp; Jogar FPS.
-- 🍕 &nbsp; Assistir Harry Potter Ou Senhor dos Anéis
+- 🍕 &nbsp; Assistir Harry Potter Ou Senhor dos Anéis.
+- 📚 &nbsp; Acompanhar o mundo científico.
 
 
 ## ◽ Tecnologias
