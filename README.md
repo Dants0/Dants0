@@ -48,7 +48,7 @@
 <a href="https://github.com/Dants0/portfolio-react">
     Portifólio
 </a>
-<a href="https://github.com/Dants0/portfolio-react">
+<a href="https://github.com/Dants0/Lol_Champions">
     Lolkipedia
 </a>
 </div>
