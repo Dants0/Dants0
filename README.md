@@ -11,7 +11,6 @@
 - 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, <br /> Graphql, Mongodb, MYSql, Javascript, Typescript, HTML5, Scss, Css3, etc.
 - 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
-- 💬 &nbsp; Envie-me um Feedback [aqui](https://nlw-return-rose.vercel.app)!
 - 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://dants0.github.io/portfolio-react/)!
 - 🎮 &nbsp; Acompanhe meu projeto [aqui](https://lolkipedia.netlify.app)!
 
