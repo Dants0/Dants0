@@ -12,7 +12,9 @@
 - 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
 - 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://dants0.github.io/portfolio-react/)!
-- 🎮 &nbsp; Acompanhe meu projeto [aqui](https://lolkipedia.netlify.app)!
+- 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.netlify.app)!
+- ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://todo-list-react-00.netlify.app/)!
+- ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)
 
 ## ◽ Meus Hobbies Favoritos
 
