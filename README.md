@@ -14,7 +14,7 @@
 - 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://dants0.github.io/portfolio-react/)!
 - 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.netlify.app)!
 - ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://todo-list-react-00.netlify.app/)!
-- ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)
+- ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)!
 
 ## ◽ Meus Hobbies Favoritos
 
@@ -52,6 +52,9 @@
 &&
 <a href="https://github.com/Dants0/Lol_Champions">
     Lolkipedia
+</a>
+<a href="https://github.com/Dants0/todo-list">
+    Todo List
 </a>
 </div>
 
