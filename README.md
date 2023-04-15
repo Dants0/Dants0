@@ -13,7 +13,7 @@
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
 - 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://portifoliome.netlify.app)!
 - 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.netlify.app)!
-- ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](agendadetarefas.netlify.app)!
+- ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://agendadetarefas.netlify.app)!
 - ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)!
 
 ## ◽ Meus Hobbies Favoritos
