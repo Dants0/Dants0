@@ -14,6 +14,7 @@
 - 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://portifoliome.netlify.app)!
 - 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.netlify.app)!
 - ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://agendadetarefas.netlify.app)!
+- 📽  &nbsp; Acompanhe meu projeto CineStream [aqui](https://catalogodefilmes.vercel.app)!
 - ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)!
 
 ## ◽ Meus Hobbies Favoritos
