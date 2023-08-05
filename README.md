@@ -16,6 +16,7 @@
 - ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://agendadetarefas.netlify.app)!
 - 📽  &nbsp; Acompanhe meu projeto CineStream [aqui](https://catalogodefilmes.vercel.app)!
 - ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)!
+- 🏆 &nbsp; Acompanhe meu Blog [aqui](https://devhoras.vercel.app)!
 
 ## ◽ Meus Hobbies Favoritos
 
