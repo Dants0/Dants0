@@ -56,6 +56,7 @@
 <a href="https://github.com/Dants0/Lol_Champions">
     Lolkipedia
 </a>
+&&
 <a href="https://github.com/Dants0/todo-list">
     Todo List
 </a>
