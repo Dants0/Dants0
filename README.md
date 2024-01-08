@@ -75,13 +75,6 @@
     
 </div>
 
-
----
-
-<div align=center>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dants0&langs_count=8)
-</div>
-
 ---
 
 <div align=center>
