@@ -84,7 +84,7 @@
 
 ---
 
-## ◽ Status
+## ◽ Stats
 <div width="100" align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=Dants0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </div>
