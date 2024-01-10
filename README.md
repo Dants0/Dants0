@@ -42,6 +42,12 @@
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
 
+##
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dants0&layout=compact"/>
+</div>
+
+
 ## ◽ Projetos
 
 <div align="center">
@@ -78,8 +84,9 @@
 
 ---
 
-<div align=center>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Dants0&theme=vision-friendly-dark" alt="Github Streak Status"/>
+## ◽ Status
+<div width="100" align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dants0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </div>
 
 ---
