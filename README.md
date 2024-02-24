@@ -12,6 +12,9 @@
 - 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
 - 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://portifoliome.netlify.app)!
+- 🤖 &nbsp; Acompanhe meu projeto Similaridade Textual [aqui](https://similaridadetextual.com)!
+- 📚 &nbsp; Acompanhe meu projeto Translate App [aqui](https://translate-app1.vercel.app)!
+- 🀄 &nbsp; Acompanhe meu projeto Contra Tempo Game [aqui](https://contratempojogo.com)!
 - 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.netlify.app)!
 - ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://agendadetarefas.vercel.app)!
 - 📽  &nbsp; Acompanhe meu projeto CineStream [aqui](https://catalogodefilmes.vercel.app)!
