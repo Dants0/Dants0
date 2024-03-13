@@ -11,7 +11,7 @@
 - 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, Typescript, Ruby e Clean Architecture.
 - 🚀 &nbsp; Estou estudando para ser Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
-- 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://portifoliome.netlify.app)!
+- 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://portfoliogit.netlify.app)!
 - 🤖 &nbsp; Acompanhe meu projeto Similaridade Textual [aqui](https://similaridadetextual.com)!
 - 📚 &nbsp; Acompanhe meu projeto Translate App [aqui](https://translate-app1.vercel.app)!
 - 🀄 &nbsp; Acompanhe meu projeto Contra Tempo Game [aqui](https://contratempojogo.com)!
