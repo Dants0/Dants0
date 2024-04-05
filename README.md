@@ -15,7 +15,7 @@
 - 🤖 &nbsp; Acompanhe meu projeto Similaridade Textual [aqui](https://similaridadetextual.com)!
 - 📚 &nbsp; Acompanhe meu projeto Translate App [aqui](https://translate-app1.vercel.app)!
 - 🀄 &nbsp; Acompanhe meu projeto Contra Tempo Game [aqui](https://contratempojogo.com)!
-- 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.netlify.app)!
+- 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.vercel.app)!
 - ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://agendadetarefas.vercel.app)!
 - 📽  &nbsp; Acompanhe meu projeto CineStream [aqui](https://catalogodefilmes.vercel.app)!
 - ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)!
