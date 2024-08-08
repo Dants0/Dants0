@@ -62,11 +62,11 @@
     Portifólio
 </a>
 &&
-<a href="https://github.com/Dants0/Lol_Champions">
+<a href="https://lolkipedia.vercel.app">
     Lolkipedia
 </a>
 &&
-<a href="https://github.com/Dants0/todo-list">
+<a href="https://agendadetarefas.vercel.app">
     Todo List
 </a>
 </div>
