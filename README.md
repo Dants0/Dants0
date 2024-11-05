@@ -4,7 +4,7 @@
 
 <div align=center>
     <img src="https://komarev.com/ghpvc/?username=Dants0&color=000000&style=flat-square&logo=github&labelColor=000000">
-     <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Follow">
+     <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Followers">
  </div>
  
 ## ◽ Sobre mim
