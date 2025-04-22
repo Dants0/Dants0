@@ -1,18 +1,18 @@
-<h1 align=center> Olá!
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-</h1>
+<h1 align="center">Olá, sou Guilherme Dantas! 👋</h1>
+<p align="center">Desenvolvedor Full Stack, apaixonado por tecnologia e inovação.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" alt="GIF de saudação">
+  <img src="https://komarev.com/ghpvc/?username=Dants0&color=000000&style=flat-square" alt="Contador de visitas">
+  <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Followers" alt="Seguidores no GitHub">
+</p>
 
-<div align=center>
-    <img src="https://komarev.com/ghpvc/?username=Dants0&color=000000&style=flat-square&logo=github&labelColor=000000">
-     <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Followers">
- </div>
- 
+
 ## ◽ Sobre mim
 - 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, Typescript, Ruby e Clean Architecture.
 - 🚀 &nbsp; Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
-- 👾 &nbsp; Acesse meu portifólio em [Portifólio](https://portfoliogit.netlify.app)!
-- 🤖 &nbsp; Acompanhe meu projeto Similaridade Textual [aqui](https://similaridadetextual.com)!
+- 🎥 &nbsp; Acesse meu portifólio em [Portifólio](https://portfoliogit.netlify.app)!
+- 👾 &nbsp; Acesse meu portifólio em [Movie Match](https://movie-match.com)!
 - 📚 &nbsp; Acompanhe meu projeto Translate App [aqui](https://translate-app1.vercel.app)!
 - 🀄 &nbsp; Acompanhe meu projeto Contra Tempo Game [aqui](https://contratempojogo.com)!
 - 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.vercel.app)!
@@ -56,20 +56,20 @@
 ## ◽ Projetos
 
 <div align="center">
-<a href="https://github.com/Dants0/nlw-return">
-    Nlw Return Project
+<a href="https://movie-match.com">
+    Movie Match
 </a>
 &&
-<a href="https://github.com/Dants0/portfolio-react">
-    Portifólio
+<a href="https://agendadetarefas.vercel.app">
+    Todo List
 </a>
 &&
 <a href="https://lolkipedia.vercel.app">
     Lolkipedia
 </a>
 &&
-<a href="https://agendadetarefas.vercel.app">
-    Todo List
+<a href="https://play.google.com/store/apps/details?id=com.hippien.lolkipedia&pcampaignid=web_share">
+    Lolkipédia Mobile
 </a>
 </div>
 
