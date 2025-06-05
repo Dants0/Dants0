@@ -1,97 +1,105 @@
-<h1 align="center">Olá, sou Guilherme Dantas! 👋</h1>
-<p align="center">Desenvolvedor Full Stack, apaixonado por tecnologia e inovação.</p>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h3 align="center">
+  Oi, eu sou Guilherme Dantas
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" alt="GIF de saudação">
-  <img src="https://komarev.com/ghpvc/?username=Dants0&color=000000&style=flat-square" alt="Contador de visitas">
-  <img src="https://img.shields.io/github/followers/Dants0?color=FEAF00&labelColor=000&style=flat-square&logo=github&label=Followers" alt="Seguidores no GitHub">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-
-## ◽ Sobre mim
-- 🛠 &nbsp; Atualmente estou utilizando e aprendendo: Nodejs, Express, React, Typescript, Ruby e Clean Architecture.
-- 🚀 &nbsp; Desenvolvedor Full Stack.
-- 👨🏻‍💻 &nbsp; Todos os meus projetos ou a maioria deles estão disponiveis em [Github](https://github.com/Dants0?tab=repositories).
-- 🎥 &nbsp; Acesse meu portifólio em [Portifólio](https://portfoliogit.netlify.app)!
-- 👾 &nbsp; Acesse meu portifólio em [Movie Match](https://movie-match.com)!
-- 📚 &nbsp; Acompanhe meu projeto Translate App [aqui](https://translate-app1.vercel.app)!
-- 🀄 &nbsp; Acompanhe meu projeto Contra Tempo Game [aqui](https://contratempojogo.com)!
-- 🎮 &nbsp; Acompanhe meu projeto Lolkipédia [aqui](https://lolkipedia.vercel.app)!
-- ✔  &nbsp; Acompanhe meu projeto Todo-List [aqui](https://agendadetarefas.vercel.app)!
-- 📽  &nbsp; Acompanhe meu projeto CineStream [aqui](https://catalogodefilmes.vercel.app)!
-- ⚽ &nbsp; Acompanhe meu projeto Buscar-Jogador [aqui](https://busca-jogador.vercel.app/)!
-- 🏆 &nbsp; Acompanhe meu Blog [aqui](https://devhoras.vercel.app)!
-
-## ◽ Meus Hobbies Favoritos
-
-- ⚽ &nbsp; Jogar Futebol ou Futevôlei.
-- 🎮 &nbsp; Jogar FPS.
-- 🍕 &nbsp; Assistir Harry Potter Ou Senhor dos Anéis.
-- 📚 &nbsp; Acompanhar o mundo científico.
-
-
-## ◽ Tecnologias
-
-<div align="center">
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ruby/ruby.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/go/go.png" />
-<img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
-</div>
-
-##
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dants0&layout=compact"/>
-</div>
-
-
-## ◽ Projetos
-
-<div align="center">
-<a href="https://movie-match.com">
-    Movie Match
-</a>
-&&
-<a href="https://agendadetarefas.vercel.app">
-    Todo List
-</a>
-&&
-<a href="https://lolkipedia.vercel.app">
-    Lolkipedia
-</a>
-&&
-<a href="https://play.google.com/store/apps/details?id=com.hippien.lolkipedia&pcampaignid=web_share">
-    Lolkipédia Mobile
-</a>
-</div>
-
-
-## ◽ Contate-me
-
-<div width="100" align=center>
-    <a href="https://www.linkedin.com/in/guilherme-góes-8b72531b0/">
-    <img  alt="Linkedin" src="https://shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&style=for-the-badge"/>
-</a>
-<a href="mailto:guilhermedantasgoes@gmail">
-    <img widh=100px  alt="Gmail"src="https://shields.io/badge/GMAIL-F5F5F5?logo=gmail&style=for-the-badge"/>
-</a>
-<a href="https://instagram.com/dantas_44"> <img  alt="Instagram" src="https://shields.io/badge/INSTAGRAM-000000?logo=instagram&style=for-the-badge"</a>
-    
-</div>
+<p align="center">
+  <a href="https://github.com/dants0/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=dants0"></a>
+</p>
 
 ---
 
-## ◽ Stats
-<div width="100" align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dants0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-</div>
+- 👨‍💻 Como engenheiro software, estou constantemente aprendendo e explorando novas tecnologias para melhorar as minhas competências.
+- 💬 Pergunte-me sobre minha experiência com Frontend Application Development, Backend, CI/CD, Oracle.
+- 🌱 Acesse _[GDC](https://gdc-teal.vercel.app)_ ou _[NoRoteiro](https://noroteiro.com)_
 
----
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+![Typescript](https://img.shields.io/badge/Typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23ED8B00.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GO](https://img.shields.io/badge/GO-%23777BB4.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🖥️ Frameworks
+
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
+#### 📚 Database
+
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
+
+#### 🔧 Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![RABBITMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+## 📊 Estatísticas de Perfil
+
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=dants0&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
+</div>
+ 
+ ### 💳 Github Perfil
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dants0&theme=github_dark)
+  
+ </div>
+ 
+ ### ⏱ Streak Status
+ 
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dants0&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+ 
+ ### 📈 Gráfico de Atividade
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dants0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📊 Linguagem Mais Usada
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=dants0&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
+
+
+### 🔗 &nbsp;Contato
+
+<div align="center">
+<a href="mailto:guilhermedantasgoes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guilherme-d-goes"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
