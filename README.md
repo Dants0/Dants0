@@ -24,7 +24,7 @@
 
 - 👨‍💻 Como engenheiro software, estou constantemente aprendendo e explorando novas tecnologias para melhorar as minhas competências.
 - 💬 Pergunte-me sobre minha experiência com Frontend Application Development, Backend, CI/CD, Oracle.
-- 🌱 Acesse _[GDC](https://gdc-teal.vercel.app)_ ou _[NoRoteiro](https://noroteiro.com)_
+- 🌱 Acesse _[LinkedIn](https://linkedin/in/guilherme-d-goes/)_ ou _[NoRoteiro](https://noroteiro.com)_
 
 ## 🛠 &nbsp;Tech Stack
 
