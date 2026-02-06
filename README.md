@@ -22,8 +22,8 @@
 
 ---
 
-- 👨‍💻 Como engenheiro software, estou constantemente aprendendo e explorando novas tecnologias para melhorar as minhas competências.
-- 💬 Pergunte-me sobre minha experiência com Frontend Application Development, Backend, CI/CD, Oracle.
+- 👨‍💻 Como Arquiteto de Soluções, estou constantemente aprendendo e explorando novas tecnologias para melhorar as minhas competências.
+- 💬 Pergunte-me sobre minha experiência com Frontend, Backend, CI/CD, Oracle, DevOps, Docker.
 - 🌱 Acesse _[LinkedIn](https://linkedin/in/guilherme-d-goes/)_ ou _[NoRoteiro](https://noroteiro.com)_
 
 ## 🛠 &nbsp;Tech Stack
